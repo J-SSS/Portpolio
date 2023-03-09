@@ -1,10 +1,10 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "아이콘을 클릭하면 스킬에 대한 이해도 및 경험에 대한 설명이 표시됩니다.\n",
     "skills": [{
-     
+
             "title": "Languages & Databases",
             "items" : [
-     
+
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
